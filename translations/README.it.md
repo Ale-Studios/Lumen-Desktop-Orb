@@ -19,7 +19,7 @@ risposta **istantanea** e **parlata ad alta voce** con una voce vera.
 
 ### Punti di forza
 
-- 🔵 **Una sfera di particelle viva** — un orb luminoso e morbido che fluttua a riposo e si increspa in modo liquido mentre parla.
+- 🌊 **Un'onda di particelle viva** — un tappeto luminoso di particelle che a riposo ondeggia come acqua lenta e, mentre parla, fa partire cerchi dal centro.
 - ⚡ **Risposte istantanee** — ogni comando rapido è una ricerca o un'azione deterministica, non un modello che "pensa". Niente attese.
 - 🎙️ **Una voce vera** — una voce neurale locale di qualità, non una sintesi robotica di sistema.
 - 🖱️ **Tasto destro per tutto** — un menu personalizzato pulito è l'intera interfaccia. Niente finestre da gestire, niente impostazioni da scavare.
@@ -54,7 +54,7 @@ risposta **istantanea** e **parlata ad alta voce** con una voce vera.
 1. Apri la pagina delle [**Release**](../../../releases/latest) e scarica
    `Lumen Setup <versione>.exe`.
 2. Eseguilo. L'installer è **per singolo utente** — **non servono permessi di amministratore**.
-3. Lumen appare come una piccola sfera luminosa in basso a destra dello schermo.
+3. Lumen appare come una piccola onda luminosa di particelle in basso a destra dello schermo.
 
 > **Un solo file da scaricare.** Ogni release elenca anche `latest.yml` e un
 > file `.blockmap` — non sono per te, sono metadati che Lumen legge da sola in

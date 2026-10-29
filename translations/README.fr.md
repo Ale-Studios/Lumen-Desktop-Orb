@@ -19,7 +19,7 @@ chacune avec une réponse **instantanée** et **prononcée à voix haute** par u
 
 ### Points forts
 
-- 🔵 **Une sphère de particules vivante** — un orbe lumineux et doux qui dérive au repos et ondule comme un liquide en parlant.
+- 🌊 **Une onde de particules vivante** — un voile lumineux de particules qui ondule doucement au repos et fait rayonner des cercles depuis le centre quand il parle.
 - ⚡ **Réponses instantanées** — chaque commande rapide est une recherche ou une action déterministe, pas un modèle qui « réfléchit ». Rien à attendre.
 - 🎙️ **Une vraie voix parlée** — une véritable voix neuronale locale, pas une synthèse robotique du système.
 - 🖱️ **Clic droit pour tout** — un menu personnalisé et épuré constitue toute l'interface. Aucune fenêtre à gérer, aucun réglage à chercher.

@@ -19,7 +19,7 @@ el clima, una búsqueda web, abrir cualquier app por su nombre — cada uno resp
 
 ### Lo más destacado
 
-- 🔵 **Una esfera de partículas viva** — un orbe suave y luminoso que flota en reposo y se ondula como líquido al hablar.
+- 🌊 **Una onda de partículas viva** — una lámina luminosa de partículas que ondula como agua lenta en reposo y lanza círculos desde el centro al hablar.
 - ⚡ **Respuestas instantáneas** — cada comando rápido es una búsqueda o acción determinista, no un modelo "pensando". Nada que esperar.
 - 🎙️ **Una voz real** — una voz neuronal local de verdad, no una síntesis robótica del sistema.
 - 🖱️ **Clic derecho para todo** — un menú personalizado y limpio es toda la interfaz. Sin ventanas que gestionar, sin ajustes que rebuscar.

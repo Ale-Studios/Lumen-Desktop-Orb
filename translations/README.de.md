@@ -19,7 +19,7 @@ das Wetter, eine Websuche, eine beliebige App per Namen öffnen — jeder davon
 
 ### Highlights
 
-- 🔵 **Eine lebendige Partikelkugel** — eine sanft leuchtende Kugel, die im Ruhezustand treibt und beim Sprechen zu einer flüssigen Welle anschwillt.
+- 🌊 **Eine lebendige Partikelwelle** — ein sanft leuchtendes Tuch aus Partikeln, das im Ruhezustand wie langsames Wasser wogt und beim Sprechen Ringe vom Zentrum ausstrahlt.
 - ⚡ **Sofortige Antworten** — jeder Schnellbefehl ist eine deterministische Abfrage oder Aktion, kein "nachdenkendes" Modell. Nichts, worauf man warten müsste.
 - 🎙️ **Eine echte gesprochene Stimme** — eine richtige neuronale Stimme, lokal auf dem Gerät, keine robotische System-TTS.
 - 🖱️ **Rechtsklick für alles** — ein sauberes, eigenes Menü ist die gesamte Oberfläche. Keine Fenster zu verwalten, keine Einstellungen zu durchsuchen.

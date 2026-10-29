@@ -19,7 +19,7 @@ the weather, a web search, opening any app by name — each one answered
 
 ### Highlights
 
-- 🔵 **A living particle sphere** — a soft glowing orb that drifts at rest and swells into a liquid ripple while it talks.
+- 🌊 **A living particle wave** — a soft, glowing sheet of particles that swells like slow water at rest and sends rings rippling out from the centre while it talks.
 - ⚡ **Instant answers** — every quick command is a deterministic lookup or action, not a model "thinking". Nothing to wait for.
 - 🎙️ **A real spoken voice** — a proper on-device neural voice, not a robotic system TTS.
 - 🖱️ **Right-click for everything** — a clean custom menu is the entire interface. No windows to manage, no settings to dig through.
@@ -54,7 +54,7 @@ the weather, a web search, opening any app by name — each one answered
 1. Open the [**Releases**](../../releases/latest) page and download
    `Lumen Setup <version>.exe`.
 2. Run it. The installer is **per-user** — it needs **no administrator rights**.
-3. Lumen appears as a small glowing orb in the bottom-right of your screen.
+3. Lumen appears as a small glowing wave of particles in the bottom-right of your screen.
 
 > **Only one file to download.** Each release also lists `latest.yml` and a
 > `.blockmap` file — those aren't for you, they're metadata Lumen itself reads

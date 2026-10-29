@@ -18,12 +18,12 @@ Click **More info**, then **Run anyway**.
 
 ## 2. Meet the orb
 
-Once installed, Lumen opens automatically as a small glowing sphere in the
+Once installed, Lumen opens automatically as a small glowing wave of particles in the
 **bottom-right corner** of your screen. It floats above every other window,
 always visible.
 
 - **Drag it** anywhere by clicking and holding the left mouse button.
-- It gently drifts and pulses on its own — that's normal, it means Lumen is
+- It gently ripples on its own — that's normal, it means Lumen is
   running.
 
 ## 3. Your first command
