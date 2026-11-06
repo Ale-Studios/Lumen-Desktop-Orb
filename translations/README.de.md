@@ -2,7 +2,7 @@
 
 🌐 [English](../README.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [Español](README.es.md) · **[Deutsch](README.de.md)** · [हिन्दी](README.hi.md)
 
-[![Website](https://img.shields.io/badge/Website-lumen--orb-38bdf8)](https://alex-stark-industries.github.io/Lumen-Desktop-Orb/)
+[![Website](https://img.shields.io/badge/Website-lumen--orb-38bdf8)](https://ale-studios.github.io/Lumen-Desktop-Orb/)
 [![Download](https://img.shields.io/badge/Download-Latest%20Release-38bdf8?logo=github)](../../../releases/latest)
 [![License](https://img.shields.io/badge/License-Free%20to%20use-2ea44f)](../LICENSE)
 [![Platform](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows)](../../../releases/latest)

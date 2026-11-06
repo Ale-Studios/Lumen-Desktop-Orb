@@ -46,4 +46,4 @@ history, no settings tied to an account — because there is no account.
 ## Questions
 
 This document describes the app as published. If anything here is ever
-unclear, open an issue on the [GitHub repository](https://github.com/Alex-Stark-industries/Lumen-Desktop-Orb).
+unclear, open an issue on the [GitHub repository](https://github.com/Ale-Studios/Lumen-Desktop-Orb).
